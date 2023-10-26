@@ -14,4 +14,4 @@ repository = "https://github.com/SpaceManiac/opus-rs"
 documentation = "https://docs.rs/opus/0.3.0/opus"
 
 [dependencies]
-audiopus_sys = { git = "https://github.com/MarcTreySonos/audiopus_sys/", rev = "a73a17495790c1837573db0eae1aa7331dc59f65" }
+audiopus_sys = { git = "https://github.com/MarcTreySonos/audiopus_sys/", rev = "2df0da1e820a71abe7b0b79896f54b3ecf0ab787" }
